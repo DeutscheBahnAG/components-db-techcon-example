@@ -1,0 +1,19 @@
+@import "@db-design/styles/global";
+@import "@db-design/styles/components/headline";
+@import "@db-design/styles/components/body";
+@import "@db-design/styles/components/logo";
+@import "@db-design/styles/components/container";
+@import "@db-design/styles/components/button";
+@import "@db-design/styles/components/track";
+@import "@db-design/styles/components/transportchip";
+@import "@db-design/styles/components/time";
+@import "@db-design/styles/components/triptime";
+
+body {
+  margin: 0;
+}
+
+// Extra-Code (nicht in dem Talk gezeigt)
+@import "@db-design/styles/components/textfield";
+@import "@db-design/styles/components/status";
+@import "@db-design/styles/components/checkbox";
