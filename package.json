@@ -8,7 +8,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@db-design/react": "^1.0.0",
+    "@db-design/react": "^1.0.1",
+    "@db-design/react-icons": "^1.0.0-pre.1",
     "parcel": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
